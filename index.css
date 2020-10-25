@@ -65,3 +65,8 @@ input[type="radio"]:focus + label {
 label:hover {
     background-color: #dfd;
   }
+
+  @media (min-width: 500px){
+    .container {
+        height: 600px;
+  }
